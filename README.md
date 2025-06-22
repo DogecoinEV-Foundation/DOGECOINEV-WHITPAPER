@@ -28,8 +28,6 @@
 
 - 💻 Official Website: [https://dogecoinev.com](https://dogecoinev.com)
 - 🔎 Explorer: [https://explorer.dogecoinev.com](https://explorer.dogecoinev.com)
-- 🧠 Whitepaper: [whitepaper.pdf](./whitepaper.pdf)
-- 💬 Discord: [https://discord.gg/dogecoinev](https://discord.gg/dogecoinev)
 - 🐦 Twitter/X: [@dogecoinev](https://x.com/dogecoinev)
 
 ## 📥 Get Started
