@@ -4,33 +4,32 @@
 
 ## 🚀 Key Features
 
-- ⛏️ **Proof-of-Work (Scrypt)** – Fast, decentralized, and secured by merge mining with Litecoin and Dogecoin.
-- 📦 **10MB Blocks** – Supports up to 666+ transactions per second.
+- ⛏️ **Proof-of-Work (Scrypt)** – Merge-mined with Litecoin and Dogecoin.
+- 📦 **10MB Blocks** – Supports 600+ transactions per second.
 - ⏱️ **1-Minute Block Times** – Near-instant confirmations.
-- 💸 **Low Fees** – Send transactions for less than a cent.
-- 🔥 **Infinite Supply, Predictable Inflation** – 10,000 DEV reward per block (ongoing).
-- 🧑‍🤝‍🧑 **Community-Driven** – No premine. No VC. 100% for the frens.
+- 💸 **Low Fees** – Perfect for tipping, gaming, and micro-payments.
+- 🔥 **Unlimited Supply** – Predictable emissions, inflation tapers over time.
+- 🧑‍🤝‍🧑 **Community First** – No premine. No VC. 100% frens-powered.
 
 ## 📊 Block Reward Schedule
 
-| Block Range      | Block Reward | Notes                         |
-|------------------|--------------|-------------------------------|
-| 1 – 99,999       | 0–1M → 500K  | Random reward, then fixed     |
-| 100K – 144,999   | 500,000      | Fixed                         |
-| 145K – 200,000   | 250,000      | First halving                 |
-| 200K – 300,000   | 125,000      | Second halving                |
-| 300K – 400,000   | 62,500       | Third halving                 |
-| 400K – 500,000   | 31,250       | Fourth halving                |
-| 500K – 600,000   | 15,625       | Fifth halving                 |
-| 600K+            | 10,000       | Ongoing forever 🐾             |
+| Block Range        | Block Reward (DEV)                                | Notes                                             |
+|--------------------|---------------------------------------------------|---------------------------------------------------|
+| 1 – 144,999        | Random: 0–1,000,000 (first 1k), then Fixed: 500,000 | Initial random distribution, then fixed reward    |
+| 145,000 – 200,000  | 250,000                                           | First halving event                               |
+| 200,001 – 300,000  | 125,000                                           | Second halving event                              |
+| 300,001 – 400,000  | 62,500                                            | Third halving event                               |
+| 400,001 – 500,000  | 31,250                                            | Fourth halving event                              |
+| 500,001 – 600,000  | 15,625                                            | Fifth halving event                               |
+| 600,001+           | 10,000                                            | Long-term fixed reward                            |
 
 ## 🔗 Resources
 
-- 💻 Official Website: [https://dogecoinev.com](https://dogecoinev.com)
-- 🔎 Explorer: [https://explorer.dogecoinev.com](https://explorer.dogecoinev.com)
+- 🌐 Website: [https://dogecoinev.com](https://dogecoinev.com)
+- 🔍 Explorer: [https://explorer.dogecoinev.com](https://explorer.dogecoinev.com)
 - 🐦 Twitter/X: [@dogecoinev](https://x.com/dogecoinev)
 
-## 📥 Get Started
+## 📥 Quick Start
 
 ```bash
 git clone https://github.com/DogecoinEV-Foundation/dogecoinev.git
